@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Abdul Jabbar Gazi
 #### I am a Web Developer
-I am 
 
 Skills: Laravel/  REACT / JS /HTML / CSS
 
