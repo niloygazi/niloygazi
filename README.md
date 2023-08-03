@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloygazi&label=Profile%20views&color=0e75b6&style=flat" alt="niloygazi" /> </p>
 
-- 🔭 I’m currently working on: **Event Hosting System**
+- 🔭 I’m currently working on: **A Space App**
 
 - 🌱 I’m currently learning: **"Javascript" and one of its library, "ReactJS"**
 
 - 💬 Ask me about: **Javascript**
 
-- 📫 How to reach me: **abduljabbargazi@outlook.com**
+- 📫 How to reach me: **niloy.gazi@outlook.com**
 
 - ⚡ Fun fact: **I know little bit about many things. 😁**
 
