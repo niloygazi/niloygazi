@@ -19,9 +19,29 @@
 <a href="https://linkedin.com/in/niloygazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niloygazi" height="30" width="40" /></a>
 </p>
 
+## 🛠️ Tech Stack
+
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,php,laravel,java,dotnet,cs,postgres,mysql,mongodb,supabase,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,dotnet,cs" />
+</p>
+
+### Databases & Backend Services
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+
 
 
 
