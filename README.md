@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloygazi&label=Profile%20views&color=0e75b6&style=flat" alt="niloygazi" /> </p>
 
-- 🔭 I’m currently working on: **A Space App**
+- I’m currently working on: **A Space App**
 
-- 🌱 I’m currently learning: **"Javascript" and one of its library, "ReactJS"**
+- I’m currently learning: **"Javascript" and one of its library, "ReactJS"**
 
-- 💬 Ask me about: **Javascript**
+- Ask me about: **Javascript**
 
-- 📫 How to reach me: **niloy.gazi@outlook.com**
+- How to reach me: **niloy.gazi@outlook.com**
 
-- ⚡ Fun fact: **I know little bit about many things. 😁**
+- Fun fact: **I know little bit about many things. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
