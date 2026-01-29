@@ -19,29 +19,10 @@
 <a href="https://linkedin.com/in/niloygazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niloygazi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-## 🛠️ Tech Stack
-
-### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,php,laravel,java,dotnet,cs,postgres,mysql,mongodb,supabase,git,postman" />
 </p>
 
-### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,dotnet,cs" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman" />
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloygazi&show_icons=true&locale=en&layout=compact" alt="niloygazi" /></p>
