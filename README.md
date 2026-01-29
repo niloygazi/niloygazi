@@ -45,4 +45,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niloygazi&show_icons=true&locale=en&layout=compact" alt="niloygazi" /></p>
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niloygazi&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
